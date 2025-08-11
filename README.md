@@ -1,2 +1,2 @@
 # clcf
-Command Line Connect Four Gamw
+Command Line Connect Four Game
